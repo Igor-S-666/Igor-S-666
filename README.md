@@ -12,7 +12,7 @@ In free time, I solve puzzles and read fantasy/sci-fi books
 - [Fun Game](https://github.com/StickStickens/our-innovative-game) - simple fun game :)
 - [Wines Dashboard](https://github.com/Julia-Wonderland/Wine-Reviews-Dashboard) - Simple dashboard allowing to browse and compare specific wines
 
-## Currently realized:
+## Currently realizing:
 - [Geometry Dash RL Bot](https://github.com/StickStickens/GD_Bot_CI) - RL bot that beats Geometry dash levels (repo currently private)
 - [WHG RL Bot](https://github.com/Igor-S-666/WHG-RL) - RL bot to beat World Hardest Game aka quite popular old flash game (repo currently private)
 - [LLM fine tuning](https://github.com/GHOST-Science-Club/llm-fine-tuning) - fine-tuning Polish LLMs in mathematics
